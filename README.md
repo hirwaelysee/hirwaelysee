@@ -108,8 +108,6 @@
 
 ## 📊 GitHub Stats
 
-### 📊 GitHub Stats:
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hirwaelysee&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwaelysee&layout=compact&theme=radical)
