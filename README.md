@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elysee Hirwa</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | Currently learning and improving every day.</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Currently learning and improving every day.</h3>
 
 ---
 ##  About Me
