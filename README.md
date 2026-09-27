@@ -2,16 +2,16 @@
 <h3 align="center">🚀 Aspiring Full-Stack Developer | Currently learning and improving every day.</h3>
 
 ---
-## 👨‍💻 About Me
+##  About Me
 
-- 🌱 I'm currently learning **React.js, Node.js, and TypeScript**
-- 💻 Passionate about **Full-Stack Web Development**
-- 🚀 Building projects and improving my programming skills every day
-- 📫 Reach me at **elyhirw902@gmail.com**
+-  I'm currently learning **React.js, Node.js, and TypeScript**
+-  Passionate about **Full-Stack Web Development**
+-  Building projects and improving my programming skills every day
+-  Reach me at **elyhirw902@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/hirwa-elysee-43827b252" target="_blank">
@@ -29,7 +29,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 <p align="left">
 
@@ -102,5 +102,5 @@
 ---
 
 <p align="center">
-✨ <i>"Every expert was once a beginner. Keep learning, keep building."</i> ✨
+ <i>"Every expert was once a beginner. Keep learning, keep building."</i> 
 </p>
